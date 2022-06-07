@@ -1,3 +1,4 @@
 # ListasChicout_C
 
-Lista feita desde o dia 27/03 porém tive que refazer o repositório pois sãos mais de 1 lista e organizei por pastas
+<h3>Atividade realizada no dia 27/03/2022 - Lista do professor: </h3>
+<p>Fabio Chicout</p>
