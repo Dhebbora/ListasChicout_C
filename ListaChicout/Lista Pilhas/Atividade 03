@@ -1,0 +1,17 @@
+//3) R- para inserir seria o pop e para remover é o push exemplo: 
+
+//RESPOSTA (tive que comentar pois estava dando erro)
+
+// stackItem pop(stack s){                                     
+//     void push (stack s, int data){
+//      int topindex = 10 -s.stackSize; 
+//      if (s.stackSize ==0){                                             
+//         int index = 10 -s.stackSize-1;
+//         return null;                                                          
+//         s.item[index].value = data;
+//     }else{                                                                   
+//         s.stacksize = s.stackSize + 1;
+//         int topIndex = 10 -s.stackSize;                       
+//     }
+//       return s.items[topIndex]
+//  }
